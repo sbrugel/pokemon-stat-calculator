@@ -11,7 +11,7 @@ The information needed to calculate each stat is:
 This then returns the estimated stats, with a margin of error of 1 unit.
 
 ## Notes
-The formulas for calculating stats are different between Gens 1-2 and Gens 3+ for two reasons:
+The formulas for calculating stats are different between Gens 1-2 and Gens 3+ for three reasons:
 - The special split did not exist in Gen 1-2.
 - Natures did not exist in Gen 1-2.
 - EVs are calculated differently between both gens.
